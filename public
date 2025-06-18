@@ -1,0 +1,8 @@
+commands.json
+[
+  {
+    "action": "message",
+    "target": "BaconGuy123",
+    "text": "✅ This now works from Vercel!"
+  }
+]
