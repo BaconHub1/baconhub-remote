@@ -1,5 +1,5 @@
 -- 🧠 BaconHub Smart Loader (always loads latest version)
-local repoURL = "https://raw.githubusercontent.com/BaconHub1/My-script/refs/heads/main/Baconhub" -- 🔁 Put your actual GitHub raw link here
+local repoURL = "https://raw.githubusercontent.com/BaconHub1/Baconhub/refs/heads/main/Baconhub" -- 🔁 Put your actual GitHub raw link here
 
 local success, response = pcall(function()
     return game:HttpGet(repoURL)
