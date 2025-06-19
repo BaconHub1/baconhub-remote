@@ -15,4 +15,4 @@ if success then
     end
 else
     warn("❌ Failed to fetch BaconHub from GitHub.")
-end
+end)
